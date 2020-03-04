@@ -1,4 +1,4 @@
-project not updated for years.
+project not updated for years and outdated. see getpypi2
 
 GetPyPi:
   A mass package downloader. This program crawls pypi.python.org for available packages and saves them to a user specified directory.
